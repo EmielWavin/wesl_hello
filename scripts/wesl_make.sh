@@ -20,6 +20,6 @@ cd ..
     mkdir arm
     cd arm
     echo $(pwd)
-    cmake ../.. -DCMAKE_TOOLCHAIN_FILE=../../toolchain.cmake
+    cmake ../.. 
     make
 )
