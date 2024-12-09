@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.16)
 
 #set(CMAKE_TRY_COMPILE_TARGET_TYPE "STATIC_LIBRARY")
 
-project(wesl_hello VERSION 0.1) #versioning a good idea?
+project(wesl_hello VERSION 1.0) 
 
 
 set(CMAKE_C_STANDARD 11)

@@ -1,4 +1,5 @@
-# wesl_hello 
+# WESL Hello World example for application building X-system
+
 
 ## Building applications
 To build the application on a Linux machine there is a buildscript that takes care of all building steps. 
